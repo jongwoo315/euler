@@ -1,2 +1,1 @@
-making progress on https://projecteuler.net/ questions  
-using Python
+making progress on https://projecteuler.net/ questions using Python.
